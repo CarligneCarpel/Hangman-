@@ -59,8 +59,8 @@ mo_yo = {
     "pom": "Yon fwi ki souvan wouj oubyen vèt, li manje nan plizyè fason",
     "zaboka": "Yon fwi ki gen koule ki vèt, pafwa vyolet, li manje nan plizyè fason, li donnen sitou nan peryod vakans",
     "yanm": "se yon rasin, ki gwo anpil, moun konn manje l anpil, lel grandi li gwo anpil,fey li monte sou lot pye bwa le lap grandi",
-    "machin": "Yon machin se yon aparèy ki sèvi pou deplase moun ak bagay yo.",
-    "solèy": "Solèy se etwal ki klere nan syèl la pandan jou."
+    "machin": "se yon aparèy ki sèvi pou deplase moun ak bagay yo, genyen tout koule, gen gwo gen piti.",
+    "solèy": "se yon etwal ki klere nan syèl la pandan li jou."
     
 }
 
